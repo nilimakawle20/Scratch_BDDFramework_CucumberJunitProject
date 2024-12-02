@@ -1,4 +1,4 @@
-Here in this project(Guru99 demo site automation), BDD framework is implemented using Selenium + Java + Maven + Junit + Cucumber, following POM and PageFactory design pattern. Extent Report is used for reporting purpose.
+Here in this project(Guru99 demo site automation), i have implemented BDD framework using Selenium + Java + Maven + Junit + Cucumber, following POM and PageFactory design pattern. Extent Report is used for reporting purpose.
 
 BDD approach using Cucumber and the Gherkin Syntax makes scenarios easy to understand for the entire team. Here i have automated below few scenarios and made the use of various features of Cucumber.
 
